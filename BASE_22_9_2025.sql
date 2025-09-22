@@ -1,0 +1,7 @@
+SELECT TOP (1000) [CODIGO]
+      ,[FECHA_ALTA]
+      ,[FECHA_BAJA]
+      ,[USO]
+      ,[PRECIO]
+      ,[NRO_COMPRA]
+  FROM [LOPO].[dbo].[INVENTAR]
